@@ -28,5 +28,6 @@ proguard/
 *.iws
 .idea/
 
-# as
+# ignorando futuros archivos en esta carpeta
 platforms/*
+
