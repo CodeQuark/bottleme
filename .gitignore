@@ -34,5 +34,5 @@ platforms/android/CordovaLib/ant-gen/*
 
 platforms/android/ant-build/*
 platforms/android/ant-gen/*
-
-platforms/android/assets/* #aca podria ser  www/
+#aca podria ser  www/
+platforms/android/assets/*
